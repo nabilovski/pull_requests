@@ -1,0 +1,2 @@
+This is the file that was in issue1, and it improves functionality in feature2
+file name: additional-file.txt
